@@ -1,3 +1,6 @@
+
+A service (flask.get put post delete), and user curl `put, get, post, delete`.
+
 chmod +x run.sh
 ./run.sh
 
