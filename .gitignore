@@ -1,0 +1,7 @@
+# misc
+.DS_Store
+#.gitignore
+venv/
+check_page_integrity/venv/	
+crude_api/venv/
+crude_api_with_authentication_and_sql/venv/
